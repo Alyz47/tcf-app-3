@@ -13,8 +13,6 @@
     "rewrites": [
         { 
             "source": "/(.*)", "destination": "/" 
-        }],
-        "projectSettings": {
-            "rootDirectory": "backend"
-          }
+        }]
+        
 }
