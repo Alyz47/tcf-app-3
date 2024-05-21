@@ -9,5 +9,9 @@
             "src": "/(.*)",
             "dest": "vercel/wsgi.py"
         }
-    ]
+    ],
+    "rewrites": [
+        { 
+            "source": "/(.*)", "destination": "/" 
+        }]
 }
