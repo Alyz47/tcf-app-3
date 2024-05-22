@@ -64,7 +64,7 @@ sqlparse==0.5.0
 sympy==1.12
 tbb==2021.12.0
 thop==0.1.1.post2209072238
-torch @ file:///C:/Users/Aston/workdir/tcf-app/torch-2.2.2%2Bcpu-cp310-cp310-win_amd64.whl#sha256=fc29dda2795dd7220d769c5926b1c50ddac9b4827897e30a10467063691cdf54
+torch @ https://download.pytorch.org/whl/cpu/torch-2.2.2%2Bcpu-cp311-cp311-win_amd64.whl
 torchvision==0.17.2+cpu
 tqdm==4.66.4
 typing_extensions==4.11.0
