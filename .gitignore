@@ -209,3 +209,4 @@ cython_debug/
 /frontend/yarn-error.log*
 .DS_Store
 backend/db.sqlite3
+.vercel
